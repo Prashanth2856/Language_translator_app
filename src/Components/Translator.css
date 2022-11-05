@@ -1,0 +1,27 @@
+body{
+    background-color:burlywood;
+}
+.MuiFormControl-root{
+    background:rgb(255, 255, 255);
+    border-radius: 10px;
+    border: none;
+}
+.outputText {
+  border: 2px solid rgb(188, 0, 16);
+  height: auto;
+  width: 70%;
+  padding: 10px;
+  height: 400px;
+  margin-top: 15px;
+  color: white;
+  
+}
+.header :nth-child(1) {
+  color: red;
+}
+.header :nth-child(2) {
+  color: green;
+}
+.header :nth-child(3) {
+  color: white;
+}
